@@ -1,4 +1,4 @@
-# Debate Simulation System
+# Debate Simulation System 
 
 This project implements a multi-agent debate simulation system. Two agents — a Scientist and a Philosopher — debate a user-provided topic in multiple rounds. The system keeps track of arguments, uses semantic similarity to judge relevance, and produces a DAG visualization showing the debate flow.
 
@@ -167,5 +167,6 @@ You can modify:
 Number of rounds (range(8) in run_debate()).
 
 Agent names or roles.
+
 
 Semantic model (all-mpnet-base-v2) for scoring.
