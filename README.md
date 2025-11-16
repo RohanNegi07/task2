@@ -124,17 +124,7 @@ Judge evaluates the full transcript to determine relevance.
 
 The system generates a graphical representation of the debate flow using Graphviz. Example structure:
 
-UserInput
-   │
-   ├──> AgentA
-   │      │
-   │      └──> Memory
-   │
-   └──> AgentB
-          │
-          └──> Memory
-Memory ─────> Judge
-
+https://github.com/RohanNegi07/task2/blob/0c1ee4f42d400708dc98ba2728f27633a48706d0/image.png
 
 UserInput feeds both agents.
 
